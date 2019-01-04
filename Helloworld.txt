@@ -1,0 +1,7 @@
+class Helloworld
+{
+main()
+{
+sysout("helloworld----");
+}
+}
