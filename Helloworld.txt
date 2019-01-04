@@ -6,7 +6,9 @@ System.out.println("helloworld--welcome to git!!!--");
 }
 public static void main(String args[])
 {
-	Helloworld.myMethod();
+
+	Helloworld obj=new Helloworld();
+	obj.myMethod();
 
 }
 }
