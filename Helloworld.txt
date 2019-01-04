@@ -1,11 +1,12 @@
 class Helloworld
 {
-void myMethod()
+static void myMethod()
 {
 System.out.println("helloworld--welcome to git!!!--");
 }
 public static void main(String args[])
 {
+	Helloworld.myMethod();
 
 }
 }
